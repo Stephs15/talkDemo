@@ -55,3 +55,12 @@ function App() {
 }
 
 export default App;
+
+/* TODO:
+  - Accessibility Testing
+  - Add Header to contact form
+  - Add click event to the button - console log to emulate
+  - Change pizza images
+  - Add background color (?)
+  - Add a rout with FAQ, with a lot of text and also small
+*/

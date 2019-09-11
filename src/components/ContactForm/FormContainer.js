@@ -13,6 +13,7 @@ const FormContainer = () => {
     <Input placeholder="Email" type="email"/>
     <Input placeholder="Name" type="text"/>
     <FormElement label="Email" inputType="email" inputPlaceholder="Please enter your email" id="emailInput" />
+    
     <Button type="submit">Send!</Button>
   </StyledFormContainer>
 }
